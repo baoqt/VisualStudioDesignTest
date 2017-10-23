@@ -1,0 +1,10 @@
+C:\Users\BAO\source\repos\DesignTest\DesignTest\bin\Debug\DesignTest.exe.config
+C:\Users\BAO\source\repos\DesignTest\DesignTest\bin\Debug\DesignTest.exe
+C:\Users\BAO\source\repos\DesignTest\DesignTest\bin\Debug\DesignTest.pdb
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.csprojResolveAssemblyReference.cache
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.Properties.Resources.resources
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.csproj.GenerateResource.Cache
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.csproj.CoreCompileInputs.cache
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.exe
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.pdb
+C:\Users\BAO\source\repos\DesignTest\DesignTest\obj\Debug\DesignTest.DesignTest.resources
